@@ -1,4 +1,4 @@
-# Repository Introduction
+ # Repository Introduction
 
 This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
 
